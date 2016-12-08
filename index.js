@@ -1,5 +1,7 @@
 var http = require('http');
 
+var app = require('router');
+
 http.createServer(function (req, res) {
 	res.writeHead("200", '{"content-type": "application/json"}');
 	res.end('Hello world');

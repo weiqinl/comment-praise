@@ -11,5 +11,17 @@
     "praise"
   ],
   "author": "liuweiqin",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiqinl/comment-praise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weiqinl/comment-praise/issues"
+  },
+  "homepage": "https://github.com/weiqinl/comment-praise#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "router": "^1.1.4"
+  }
 }
