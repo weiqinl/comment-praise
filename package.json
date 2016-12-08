@@ -1,0 +1,15 @@
+{
+  "name": "comment-praise",
+  "version": "0.0.1",
+  "description": "文章评论点赞",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comment",
+    "praise"
+  ],
+  "author": "liuweiqin",
+  "license": "MIT"
+}
